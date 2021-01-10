@@ -1,0 +1,4 @@
+
+Classification: Classification process classify the objects/data/values into one or more categories(or classes) according to their respective features and attributes. Classification is a classical Machine Learning problem which can be implemented in variety of fields. 
+
+Kerne SVM: Kernel SVM can be used to classify no-linearly separable data in which linear or non-linear classifier can't produce desired output. The Kernel SVM takes the non-linearly separable data to a higher dimesion and then add a hyperplane/decision boundary then map the data again in lower dimension.

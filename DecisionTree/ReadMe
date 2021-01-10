@@ -1,0 +1,4 @@
+
+Classification: Classification process classify the objects/data/values into one or more categories(or classes) according to their respective features and attributes. Classification is a classical Machine Learning problem which can be implemented in variety of fields. 
+
+Decision Tree Classification: Decision Tree splits the data-set into several nodes called leaf and at each leaf decison is made in order to go to the next leaf. Decision Trees are based on "Information Entropy".

@@ -1,0 +1,4 @@
+
+Classification: Classification process classify the objects/data/values into one or more categories(or classes) according to their respective features and attributes. Classification is a classical Machine Learning problem which can be implemented in variety of fields. 
+
+K-Nearest Neighbors: K-NN algorithm calculate the distances between the new data point that is being added to the data-set and the K nearest neighbors then try to assign it some class based on the results of that calculated distance. K-NN is a non-linear classifier so the prediction boundary will also be non-linear.

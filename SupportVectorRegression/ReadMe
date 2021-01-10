@@ -1,0 +1,6 @@
+
+Support Vector Regression has a different goal compare to a Simple Linear Regression or Multiple Linear Regression. In SLR or MLR we try to minimize the error between the actual and predicted values. However, SVR make sure that the errors do not exceeds the "threshold".
+
+A deep knowledge of kernels and Support Vectors is needed to completly understand what is going. For further info on SVR please visit:
+
+https://www.mathworks.com/help/stats/understanding-support-vector-machine-regression.html

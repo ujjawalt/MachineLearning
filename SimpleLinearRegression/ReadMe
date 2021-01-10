@@ -1,0 +1,2 @@
+
+"""Using Simple Linear Regression(SLR) the salary of a person is predicted on the basis of person's expericence. SLR is a linear regression model which uses the minimum summation best fit line to predict the outcome."""

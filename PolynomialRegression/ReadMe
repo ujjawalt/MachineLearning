@@ -1,0 +1,4 @@
+
+Using Polynomial Linear Regression(PLR) the salary of a person is predicted on the basis of person's position level in a organization. PLR uses the exponential term to fit the data very well because with the increase in the position level of a person the increase in the salary is not always linear but can/be exponential. In such situation the PLR fits the data very well and predict the results more accurately.
+
+Additionally to compare the results of PLR with SLR, the code has a separate section so that the distinction can be made clearly.

@@ -1,0 +1,4 @@
+
+Classification: Classification process classify the objects/data/values into one or more categories(or classes) according to their respective features and attributes. Classification is a classical Machine Learning problem which can be implemented in variety of fields. 
+
+Logistic Regression Classifier: It is simply a linear regressor which linearly classify the data using a linear prediction boundary. 

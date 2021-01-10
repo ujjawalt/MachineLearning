@@ -1,0 +1,4 @@
+
+Clustering: In clustering while making clusters unexpected structures, clusters and groupings may pop-up. So in Classification we have prior knowledge about the possible classes but in clustering we have no prior knowledge about how many clusters will be formed. 
+
+Hierachical Clustering: Dendrograms are used in Hierarchical Clustering and starting with 'n' numbers of clusters where 'n' is the number of observations then nearest data points are combined iteratively to reduce the numbers of clusters untill all the points are covered in some cluster.

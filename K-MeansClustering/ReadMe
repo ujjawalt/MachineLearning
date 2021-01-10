@@ -1,0 +1,4 @@
+
+Clustering: In clustering while making clusters unexpected structures, clusters and groupings may pop-up. So in Classification we have prior knowledge about the possible classes but in clustering we have no prior knowledge about how many clusters will be formed. 
+
+K-Means: By selecting the K numbers of clusters the centroids recalculation is done with the help of "within cluster sum of squares" or WCSS, this process performed iteratively to get the number of clusters. 

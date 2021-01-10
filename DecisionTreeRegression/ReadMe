@@ -1,0 +1,4 @@
+
+Decision Tree Regression is a non-linear non-continues predictor that works on the concepts of "Decisions". Decision Tree finds its usage in Regression as well as in Classification problems (CART: Classification and Regression Trees). DTR make several splits of the data sets in the form of intervals and graphically these splits are the leaves that starts from root and goes all the way down to the terminal leafs.
+
+Since the DTR is non-linear and non-continues the output will also be in the form of intervals for each split.
